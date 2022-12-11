@@ -1,0 +1,5 @@
+Asi se crea un sketch:
+canvas-sketch sketch-02 --new --open
+
+para guardar las fotos de tus artes es necesario correr:
+canvas-sketch sketch-01.js --output=output/01 
